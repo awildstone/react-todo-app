@@ -1,0 +1,51 @@
+button {
+	margin-left: 10px;
+	/* background-color: lightseagreen; */
+	padding: 5px;
+	order: 1px solid black;
+	border-radius: 5px;
+}
+
+.delete {
+	background-color: orangered;
+}
+
+.save {
+	background-color: seagreen;
+}
+.update {
+	background-color: lightseagreen;
+}
+
+.edit {
+	background-color: goldenrod;
+}
+
+.buttons {
+	text-align: center;
+}
+
+.task {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	text-align: center;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: lightgray;
+	overflow-wrap: break-word;
+}
+
+.task-form {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	text-align: left;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: lightgray;
+}
